@@ -16,4 +16,3 @@ CloudFront has been configured to retrieve and distribute website files.
 - Website-endpoint URL: http://my-356399367430-bucket.s3-website-us-east-1.amazonaws.com
 
 ![alt text](doc/image-5.png)
-# static-web-aws-hosting
